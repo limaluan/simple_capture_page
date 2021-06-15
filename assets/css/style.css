@@ -99,3 +99,21 @@ footer img {
 .description h2, .description p {
     margin-bottom: 10px;
 }
+
+@media screen and (max-width: 420px){
+    section{
+        background-position: center;
+    }
+
+    .formContainer{
+        float: none;
+        margin: 0 auto;
+    }
+
+    .description {
+        margin: 20px 0;
+        text-align: center;
+        max-width: 60%;
+    }
+
+}
