@@ -69,7 +69,7 @@ select {
     background-position: calc(100% - 10px), center;
 }
 
-input[type="submit"] {
+input[value="INSCREVA-SE"] {
     background-color: var(--aqua-color);
     color: white;
     font-weight: bold;
@@ -98,6 +98,11 @@ footer img {
 
 .description h2, .description p {
     margin-bottom: 10px;
+}
+
+/*Hide Email bot checker*/
+.clear {
+    display: none;
 }
 
 @media screen and (max-width: 420px){
