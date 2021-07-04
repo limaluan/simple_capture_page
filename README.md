@@ -2,6 +2,8 @@
 A simple capture page of a workshop using only HTML and CSS.<br>
 *Observation: The language of the page is Portuguese 🇧🇷.<br>  
 
+<h3><a href="https://limaluan.github.io/simple_capture_page/">Click here to see the page on your Browser!</a></h3>
+
 ## ► Home Ilustration
 <img src="https://github.com/limaluan/simple_capture_page/blob/main/project_demo_imgs/home_page.PNG?raw=true"><br><br>
 <hr>
